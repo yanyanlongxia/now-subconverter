@@ -8,3 +8,4 @@ rm subconverter_linux64.tar.gz
 mv -f subconverter/subconverter subconverter/subconverter.exe
 # overwrite preference settings
 cp -R files/* subconverter/
+
